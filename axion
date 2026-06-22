@@ -1,0 +1,3 @@
+npx create-next-app@latest axion
+cd axion
+npm install @supabase/supabase-js
